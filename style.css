@@ -1,7 +1,16 @@
 body{
-    background-color: #ffffffe1;
+    background-color:
     font-family: Arial, sans-serif;
 
+}
+
+P{
+    background-color:
+}
+
+span{
+    background-color: rgb(255, 255, 255);
+    color: blueviolet;
 }
 
 .container{
